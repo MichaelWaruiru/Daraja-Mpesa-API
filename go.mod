@@ -1,0 +1,11 @@
+module MpesaAPI
+
+go 1.21.5
+
+require github.com/google/uuid v1.5.0
+
+require (
+	github.com/go-sql-driver/mysql v1.7.1 // indirect
+	github.com/jmoiron/sqlx v1.3.5 // indirect
+	github.com/tealeg/xlsx v1.0.5 // indirect
+)

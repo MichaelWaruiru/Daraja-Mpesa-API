@@ -24,7 +24,7 @@ func B2CPayment(token string) {
 		"CommandID":                "BusinessPayment",
 		"Amount":                   10,
 		"PartyA":                   600996,
-		"PartyB":                   254719453367,
+		"PartyB":                   254708374149,
 		"Remarks":                  "Test remarks",
 		"QueueTimeOutURL":          "https://mydomain.com/b2c/queue",
 		"ResultURL":                "https://mydomain.com/b2c/result",
